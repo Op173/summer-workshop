@@ -1,0 +1,11 @@
+# Site settings
+
+title: Great New Blog Title 
+author: 
+  name: Wawa Hoagies
+  email: wawahoagies@princeton.edu
+description: Great site about jekyll on GitHub Pages
+
+# Build Settings
+
+remote_theme: jekyll/minima
